@@ -1,6 +1,8 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["clueboard/66/rev3", "angv"]
+        ["clueboard/66/rev3", "angv"],
+        ["spellbound68", "angv91"],
+        ["spellbound68", "vial"]
     ]
 }
